@@ -10,6 +10,7 @@ namespace PluralsightGitForVS
     {
         static void Main(string[] args)
         {
+            //make a first change and commit locally 
         }
     }
 }
