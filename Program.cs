@@ -15,6 +15,8 @@ namespace PluralsightGitForVS
             // make another change locally
 
             // last change before remote push
+
+            //first change to branch feature1.1
         }
     }
 }
