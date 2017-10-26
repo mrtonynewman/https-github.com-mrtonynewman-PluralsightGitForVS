@@ -13,6 +13,8 @@ namespace PluralsightGitForVS
             //make a first change and commit locally 
 
             // make another change locally
+
+            // last change before remote push
         }
     }
 }
